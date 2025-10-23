@@ -27,5 +27,3 @@ It focuses on **content-first design**, semantic HTML, and timeless visual balan
 - **CSS3** — Custom responsive layout, Flexbox, gradients, typography  
 
 ---
-
-## 🧩 Folder Structure
